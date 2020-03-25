@@ -4,7 +4,7 @@ import (
 	"net"
 
 	gs "github.com/djwackey/dorsvr/groupsock"
-	"github.com/djwackey/gitea/log"
+	"github.com/djwackey/dorsvr/log"
 )
 
 type RTPInterface struct {

@@ -15,7 +15,7 @@ import (
 	"github.com/djwackey/dorsvr/auth"
 	gs "github.com/djwackey/dorsvr/groupsock"
 	"github.com/djwackey/dorsvr/livemedia"
-	lg "github.com/djwackey/gitea/log"
+	lg "github.com/djwackey/dorsvr/log"
 )
 
 type RTSPServer struct {

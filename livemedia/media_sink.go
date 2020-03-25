@@ -6,7 +6,7 @@ import (
 	"net"
 	sys "syscall"
 
-	"github.com/djwackey/gitea/log"
+	"github.com/djwackey/dorsvr/log"
 )
 
 // default

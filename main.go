@@ -4,8 +4,8 @@ import (
 	"fmt"
 
 	//"github.com/djwackey/dorsvr/auth"
+	"github.com/djwackey/dorsvr/log"
 	"github.com/djwackey/dorsvr/rtspserver"
-	"github.com/djwackey/gitea/log"
 )
 
 func main() {
